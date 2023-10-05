@@ -5,7 +5,7 @@ This repository contains all the practical assignments related to the subject "N
 ## Sentiment Analysis Practical Work
 The diagram presented below provides a high-level overview of the comprehensive process involved in extracting sentiment from various web pages regarding to a specific cryptocurrency:
 
-![Steps](./Sentiment%20Analysis/Sentiment%20Analysis.png)
+![Steps](./Sentiment_Analysis/Sentiment_Analysis.png)
 
 <details>
     <summary><b>Define Relevant Tokens</b></summary>
